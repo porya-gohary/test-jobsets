@@ -1,2 +1,2 @@
-# test-tasksets
-A random set of task sets for test purposes
+# test-jobsets
+A random set of job sets for test purposes
