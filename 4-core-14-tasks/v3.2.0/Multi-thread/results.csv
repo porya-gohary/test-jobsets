@@ -1,4 +1,4 @@
-file name,schedulable?,#jobs,#states,#edges,max width,CPU time,memory,timeout,#CPUs,#POR successes,#POR failures
+file name,schedulable?,#jobs,#nodes,#states,#edges,max width,CPU time,memory,timeout,#CPUs,#POR successes,#POR failures
 jobsets/jobset-log-uniform-discrete_0.csv,0,8984,3567,3885,8789,1001,0.013722,11.000000,0,4
 jobsets/jobset-log-uniform-discrete_1.csv,1,401,13463,14156,35493,1001,2.857928,11.597656,0,4
 jobsets/jobset-log-uniform-discrete_10.csv,1,14753,511776,583198,1364843,1001,120.940392,47.207031,0,4
